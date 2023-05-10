@@ -1,0 +1,24 @@
+Kansas:
+    The state bird is the Western Meadowlark
+    The state song is "Home on the Range" by Brewster Higley and Daniel Kelly
+    The state tree is the Eastern Cottonwood
+
+Missouri:
+    The state bird is the Bluebird
+    The state song is "Missouri Waltz" by J.R. Shannon and John V.
+    The state tree is the Flowering Dogwood
+
+Oaklahoma:
+    The state bird is the Scissor-tailed Flycatcher
+    The state song is "Oaklahoma" by Oscar Hammerstein and Richard
+    The state tree is the Eastern Redbud
+
+Nebraska:
+    The state bird is the Western Meadowlark
+    The state song is "Beautiful Nebraska" by Jim Fras
+    The state tree is the Eastern Cottonwood
+
+Colorado:
+    The state bird is the Lark Bunting
+    The state song is "Where the Columbines Grow" by A.J. Flynn
+    The state tree is the Colorado Blue Spruce
