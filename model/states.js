@@ -9,11 +9,10 @@ const dataSchema = new mongoose.Schema({
         required: true,
         type: String
     },
-    funFacts: {
+    funFacts: [{
         required: false
-        funFacts: [{
             type: String
-        }]
+    }]
 })
 
 module.exports = mongoose.model('Data', dataSchema)
