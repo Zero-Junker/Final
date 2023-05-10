@@ -8,7 +8,12 @@ const dataSchema = new mongoose.Schema({
     capital: {
         required: true,
         type: String
-    }
+    },
+    funFacts: {
+        required: false
+        funFacts: [{
+            type: String
+        }]
 })
 
 module.exports = mongoose.model('Data', dataSchema)
