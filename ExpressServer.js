@@ -29,7 +29,7 @@ app.use("/subdir", express.static(path.join(__dirname, "/public")));
 app.use("/", require("./routes/root"));
 app.use("/subdir", require("./routes/subdir"));
 // API Route
-app.use("/employees", require("./routes/api/employees"));
+app.use("/States", require("./routes/api/States"));
 
 // 404 Route for un-defined
 app.all("*", (req, res) => {
